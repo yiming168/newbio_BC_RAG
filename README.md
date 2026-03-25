@@ -1,3 +1,5 @@
+Bacillus Coagulans AI Assistant
+
 这是一个关于凝结芽孢杆菌（Bacillus coagulans）的智能问答系统.
 系统只回答这 5 类问题：
 功效（IBS / 腹泻 / 肠道）
